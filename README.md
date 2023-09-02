@@ -1,7 +1,7 @@
   <p align="center">  
-  <a href="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <h1 align="center"> PRABATH-MD </h1>
+  <a href="https://i.imgur.com/XjiMUp1.jpeg">
+    <img alt="secktor docs" height="400" src="https://i.imgur.com/XjiMUp1.jpeg">
+    <h1 align="center"> DARKLEE-MD </h1>
   </a>
 </p>  
 <p align="center">
